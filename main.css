@@ -2,13 +2,11 @@
 /******  mobile-friendly  ******/
 @media screen and (max-width: 480px) {
     .greek_logo img {
-      width:  90vw;
+        width:  90vw;
     }
-    
+
     .under_construction{
-      font-family: zalesk;
-      float: center;
-      text-align: center;
+        text-align: center;
     }
 
     a {
@@ -16,35 +14,55 @@
       }
 
     ul {
-      list-style: none;
+        list-style: none;
+        float: center;
+        margin-right: 10vw;
     }
 
+    #pita {
+      width: 100vw;
+      margin-left: -10vw;
+    }
 }
 
 
 /****  IPAD or big phones sized screens  *******/
 @media screen and (min-width: 481px) {
-  .greek_logo img{
+  .greek_logo img {
     width:  70vw;
     margin-left: 15vw;
     }
 
-    .under_construction{
+    .under_construction {
       font-family: zalesk;
        width:  80vw;
        text-align:  center;
     }
 
+    a {
+        font-size:  2em;
+      }
+
+    ul {
+        list-style: none;
+        float: center;
+        margin-right: 10vw;
+    }
+
+    #pita {
+      width: 100vw;
+      margin-left: -20vw;
+    }
 }
 
 /******* desktop version ***********/
 @media screen and (min-width: 481px) {
-  .greek_logo img{
+  .greek_logo img {
     width:  70vw;
     margin-left: 15vw;
     }
 
-    .under_construction{
+    .under_construction {
       font-family: zalesk;
        width:  80vw;
        margin-left: 10vw;
@@ -56,4 +74,8 @@
       visibility: hidden;
     }
 
+}
+
+footer {
+  text-align: center;
 }
