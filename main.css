@@ -4,9 +4,19 @@
     .greek_logo img {
       width:  90vw;
     }
+    
     .under_construction{
       font-family: zalesk;
-       text-align:  center;
+      float: center;
+      text-align: center;
+    }
+
+    a {
+        font-size:  2em;
+      }
+
+    ul {
+      list-style: none;
     }
 
 }
@@ -42,7 +52,7 @@
     }
 
   /******** this makes the call button for non-mobile devices disappear *********/
-    .phone_number .call_me_mobile_only a i{
+    .phone_number .call_me_mobile_only a {
       visibility: hidden;
     }
 
