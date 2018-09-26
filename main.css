@@ -1,0 +1,49 @@
+
+/******  mobile-friendly  ******/
+@media screen and (max-width: 480px) {
+    .greek_logo img {
+      width:  90vw;
+    }
+    .under_construction{
+      font-family: zalesk;
+       text-align:  center;
+    }
+
+}
+
+
+/****  IPAD or big phones sized screens  *******/
+@media screen and (min-width: 481px) {
+  .greek_logo img{
+    width:  70vw;
+    margin-left: 15vw;
+    }
+
+    .under_construction{
+      font-family: zalesk;
+       width:  80vw;
+       text-align:  center;
+    }
+
+}
+
+/******* desktop version ***********/
+@media screen and (min-width: 481px) {
+  .greek_logo img{
+    width:  70vw;
+    margin-left: 15vw;
+    }
+
+    .under_construction{
+      font-family: zalesk;
+       width:  80vw;
+       margin-left: 10vw;
+       text-align:  center;
+    }
+
+  /******** this makes the call button for non-mobile devices disappear *********/
+    .phone_number .call_me_mobile_only a i{
+      visibility: hidden;
+    }
+
+}
