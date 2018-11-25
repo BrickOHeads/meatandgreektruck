@@ -50,6 +50,7 @@
     }
 
     #pita {
+
       width: 100vw;
       margin-left: -20vw;
     }
@@ -57,10 +58,26 @@
 
 /******* desktop version ***********/
 @media screen and (min-width: 481px) {
+
+ html{
+  background-image: url("https://previews.123rf.com/images/oksancia/oksancia1307/oksancia130704342/21263924-pastel-azul-tejido-ikat-diamante-fondo-sin-patr%C3%B3n.jpg");
+ }
+
+  #TrailerPickId{
+   width: 900px;
+   height: 600px;
+   /* justify-content: center; */
+  }
+
   .greek_logo img {
     width:  70vw;
     margin-left: 15vw;
-    }
+  }
+
+   iframe{
+      padding-left: 20%;
+   }
+
 
     .under_construction {
       font-family: zalesk;
