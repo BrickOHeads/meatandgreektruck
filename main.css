@@ -61,7 +61,9 @@
         float: center;
         margin-right: 10vw;
     }
+iframe{
 
+}
     #pita {
 
       width: 100vw;
@@ -97,8 +99,7 @@
    iframe{
     width: 900px;
     height: 600px;
-    /* padding-left: 25%; */
-    margin: 0 auto;
+
 
    }
 
