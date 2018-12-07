@@ -6,6 +6,17 @@
  font-family: "z";
  color: blue;
 }
+
+html{
+ background-image: url("https://previews.123rf.com/images/oksancia/oksancia1307/oksancia130704342/21263924-pastel-azul-tejido-ikat-diamante-fondo-sin-patr%C3%B3n.jpg");
+}
+
+iframe{
+ width: 900px;
+ height: 600px;
+
+
+}
 /******  mobile-friendly  ******/
 @media screen and (max-width: 480px) {
     .greek_logo img {
