@@ -7,16 +7,7 @@
  color: blue;
 }
 
-/* html{
- background-image: url("https://previews.123rf.com/images/oksancia/oksancia1307/oksancia130704342/21263924-pastel-azul-tejido-ikat-diamante-fondo-sin-patr%C3%B3n.jpg");
-} */
 
-iframe{
- width: 90vw;
- height: 70vh;
-
-
-}
 /******  mobile-friendly  ******/
 @media screen and (max-width: 480px) {
     .greek_logo img {
@@ -38,10 +29,6 @@ iframe{
         float: center;
         margin-right: 10vw;
     }
-    /* iframe{
-     width: 50vw;
-     height: 50vh;
- } */
 
     #pita {
       width: 100vw;
@@ -72,11 +59,7 @@ iframe{
         float: center;
         margin-right: 10vw;
     }
-/* iframe{
- width: 50vw;
- height: 50vh;
 
-} */
     #pita {
 
       width: 100vw;
@@ -92,9 +75,6 @@ iframe{
   src: url("Fonts/Optio_O.ttf");
  }
 
- /* html{
-  background-image: url("https://previews.123rf.com/images/oksancia/oksancia1307/oksancia130704342/21263924-pastel-azul-tejido-ikat-diamante-fondo-sin-patr%C3%B3n.jpg");
- } */
 
  #pita{
   align-items: center;
@@ -109,12 +89,7 @@ iframe{
     margin-left: 15vw;
   }
 
-   /* iframe{
-    width: 900px;
-    height: 600px;
 
-
-   } */
 
  h1{
  font-family: "ZaleskiRegularZaleski";
