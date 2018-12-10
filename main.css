@@ -38,10 +38,10 @@ iframe{
         float: center;
         margin-right: 10vw;
     }
-    iframe{
+    /* iframe{
      width: 50vw;
      height: 50vh;
- }
+ } */
 
     #pita {
       width: 100vw;
@@ -72,11 +72,11 @@ iframe{
         float: center;
         margin-right: 10vw;
     }
-iframe{
+/* iframe{
  width: 50vw;
  height: 50vh;
 
-}
+} */
     #pita {
 
       width: 100vw;
@@ -109,12 +109,12 @@ iframe{
     margin-left: 15vw;
   }
 
-   iframe{
+   /* iframe{
     width: 900px;
     height: 600px;
 
 
-   }
+   } */
 
  h1{
  font-family: "ZaleskiRegularZaleski";
