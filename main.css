@@ -12,8 +12,8 @@
 } */
 
 iframe{
- width: 900px;
- height: 600px;
+ width: 90vw;
+ height: 70vh;
 
 
 }
@@ -39,8 +39,8 @@ iframe{
         margin-right: 10vw;
     }
     iframe{
-     width: 275px;
-     height: 400px;
+     width: 50vw;
+     height: 50vh;
  }
 
     #pita {
@@ -73,6 +73,8 @@ iframe{
         margin-right: 10vw;
     }
 iframe{
+ width: 50vw;
+ height: 50vh;
 
 }
     #pita {
@@ -90,9 +92,9 @@ iframe{
   src: url("Fonts/Optio_O.ttf");
  }
 
- html{
+ /* html{
   background-image: url("https://previews.123rf.com/images/oksancia/oksancia1307/oksancia130704342/21263924-pastel-azul-tejido-ikat-diamante-fondo-sin-patr%C3%B3n.jpg");
- }
+ } */
 
  #pita{
   align-items: center;
